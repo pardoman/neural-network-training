@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/pardoman/neural-network-training.git"
   },
-  "author": "",
+  "author": "pardoman <pardo.medina@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pardoman/neural-network-training/issues"
